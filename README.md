@@ -1,1 +1,1 @@
-https://e-spacnvrnd.github.io/rsschool-cv/cv
+https://e-spacnvrnd.github.io/rsschool-cv
