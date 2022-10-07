@@ -1,11 +1,9 @@
 # Dmitry Manakov
-***
-Junior frontend developer
-***
-----------------------------
-## Contact information:
 
-Phone: +7(900)5555555
+_Junior frontend developer_
+
+---
+## Contact information:
 
 E-mail: dimanakov21@gmail.com
 
@@ -15,7 +13,7 @@ Discord server: rs-school
 
 Discord name: Dmitry (@E-spacnvrnd)
 
-************************************************
+***
 ## About me
 I'm an electrical engeener and work in the energy sector. 
 
