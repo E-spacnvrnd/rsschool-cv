@@ -1,0 +1,59 @@
+# Dmitry Manakov
+
+_Junior frontend developer_
+
+---
+## Contact information:
+
+E-mail: dimanakov21@gmail.com
+
+Telegram: @dimanakov
+
+Discord server: rs-school 
+
+Discord name: Dmitry (@E-spacnvrnd)
+
+***
+## About me
+I'm an electrical engeener and work in the energy sector. 
+
+My thirst for knowledge led me to the information technologies.
+
+In a process of research IT structure I decide to start my way from frontend develop. 
+
+I'm interesting of physiology, psychology and physic.
+
+---
+## Skills and Technologies
+* HTML5, CSS3
+* JavaScript
+* Git, Github
+* Python3
+* Bash
+* VS Code
+* Figma
+
+---
+## Code Example
+```
+Here will be some code example
+
+Here will be some code example too
+
+and so on
+```
+---
+## Expirience
+[Single page website on bootstrap4](https://e-spacnvrnd.github.io/bootstrap4/)
+
+[Single page website with fixed header](https://e-spacnvrnd.github.io/PiedPiperCoin/)
+
+---
+## Education
+* NUST MISIS - Engeener's degree - Technologies of micro- and nanoelectronics
+* Plekhanov Russian University of Economics - Business english course
+
+---
+## Languages
++ English - intermediate
++ Russian - native
